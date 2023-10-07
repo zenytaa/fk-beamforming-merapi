@@ -15,3 +15,5 @@ The starting point of the recording data is plotted in yellow on the particle mo
 
 ### Visualization
 The FK-beamforming analysis results will be divided based on the direction of occurrence of a pyroclastic flow from the summit. Particle motion analyses will also support the FK-Beamforming results. The polar diagram represents the distribution of energy in color levels, while the gray numbers in the polar diagram describe the slowness value for each energy. 
+
+note: I attached my final project to this repository, but sorry, it's only in Indonesian.
