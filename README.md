@@ -10,7 +10,8 @@ On this project, the seismic signal was trim in range between the event that occ
 The seismic signal was filtered using a bandpass filter from 1.0 Hz to 12.0 Hz (typical rockfall signal from Merapi).
 
 ![Semantic description of image](/assets/img/Data-Trimming.png "Data Trimming (a) before (b) after")<br>
-_Data Trimming (a) before (b) after_ <br>
+_Data Trimming (a) before (b) after_
+<br>
 ![Semantic description of image](/assets/img/Data_Filtering.png "Data Filtering 1.0 Hz to 12.0Hz (a) before (b) after") <br>
 _Data Trimming (a) before (b) after_
 
